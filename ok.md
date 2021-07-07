@@ -8,14 +8,12 @@
 
 ### From an ID to an entry
 
-Simply paste the DOI into the table of entry, and JabRef will create the new corresponding entry.
-
 For other identifiers, choose **Library → New entry**, or click on the `New entry` button, or use the keyboard shortcut `CTRL + N`. In the lower part of the window, there are two boxes : "ID type" and "ID". In the field "ID type", you can select the desired identifier, e.g. "ISBN" \(it works also for DOI\). Then enter the identifier in the textbox below and press Enter. That will generate an entry based on the given ID \(you can also click on "Generate"\). The entry is added to your library and opened in the entry editor. In case an error occurs, a popup is shown.
 
 {% hint style="info" %} Sometimes the new entry contains a `url` field. This field usually points to the URL of the book at the respective online book store. In case you buy the book using this link, the service provider \(e.g., [ebook.de](https://www.ebook.de/)\) receive a commission to fund the service. {% endhint %}
 
 {% hint style="info" %}
-You can also 
+You can also add a entry by simplely pasteing its BibTex code or its DOI from your clipboard to the maintable.
 {% endhint %}
 
 ### Supported databases
