@@ -13,7 +13,7 @@ For other identifiers, choose **Library → New entry**, or click on the `New en
 {% hint style="info" %} Sometimes the new entry contains a `url` field. This field usually points to the URL of the book at the respective online book store. In case you buy the book using this link, the service provider \(e.g., [ebook.de](https://www.ebook.de/)\) receive a commission to fund the service. {% endhint %}
 
 {% hint style="info" %}
-You can also add a entry by simplely pasteing its BibTex code or its DOI from your clipboard to the maintable.
+You can also add an entry by simply pasting its BibTex or its DOI from your clipboard to the maintable.
 {% endhint %}
 
 ### Supported databases
